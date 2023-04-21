@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Karolina</h1>
 
-- 🔭 I’m currently working on **improving JavaScript/React skills**
+- 🔭 I’m currently working on **improving JavaScript/React/Python skills**
 
 - 🌱 I’m currently learning **TypeScript, Tailwind CSS and Node.js**
 
