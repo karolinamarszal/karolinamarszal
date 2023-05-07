@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Karolina</h1>
+<h1 align="center">Hi 👋 **[I'm Karolina](https://karolinam.netlify.app/)**</h1>
 
 - 🔭 I’m currently working on **improving JavaScript/React/Python skills**
 
