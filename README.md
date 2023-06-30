@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Karolina</h1>
 
-- 🔭 I’m currently working on **improving JavaScript/React/Python skills**
+- 🔭 I’m currently working on **improving JavaScript//Python skills**
 
-- 🌱 I’m currently learning **TypeScript, Tailwind CSS and Node.js**
+- 🌱 I’m currently learning **TypeScript, Google Big Query**
 
 - 📫 How to reach me **karolina.softwaredeveloper@gmail.com**
 
