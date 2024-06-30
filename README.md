@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋 I'm Karolina</h1>
 
-- 🔭 I’m currently working on **improving JavaScript//Python skills**
+- 🔭 I’m currently working on **improving Python/SQL/Google Cloud Platform skills**
 
-- 🌱 I’m currently learning **TypeScript, Google Big Query**
-
-- 📫 How to reach me **karolina.softwaredeveloper@gmail.com**
+- 🌱 I’m currently learning **Apache Spark (PySpark)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
